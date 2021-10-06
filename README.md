@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @Hot-Giraffer
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Hot-Giraffer/Hot-Giraffer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
+---> Hi, I’m @Hot-Giraffer
+I’m interested in atuonomous vehicles.
+I'm currently learning the gap about atuonomous vehicles.
+I’m looking to collaborate on someone who have data set that about the vehicles on various sceneries.
+If you are interesting in my research and myself, you can send me an e-mail (857666985@qq.com).
+I am waiting for you.....
